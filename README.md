@@ -1,6 +1,6 @@
 ### from Team ECC #hack4tk
 
-IMAGE/VIDEO/LIVE Detector for TIM RUPP, 
+Image/Video/Live Helmet Detector for Tim Rupp, 
 
 out-of-box demo ready solution. 
 
