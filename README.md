@@ -1,4 +1,4 @@
-# helmet_object_hack4tk from Team ECC
+### from Team ECC
 
 IMAGE/VIDEO/LIVE Detector for TIM RUPP, 
 
