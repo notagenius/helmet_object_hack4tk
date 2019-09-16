@@ -37,8 +37,9 @@ there are flag in code you can set:
 ### 1. ENVIRNMENT INSTALLATION
 
 developped with python3
-
+```
 pip3 install -r requirements.txt
+```
 
 ### 2. MODEL PROBLEM
 
