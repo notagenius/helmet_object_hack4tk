@@ -53,7 +53,7 @@ to address the performance speed on CPU, YOLOv3 was chosen.
 
 https://github.com/wujixiu/helmet-detection 
 
-#### 3. MODEL TRAINING
+### 4. MODEL TRAINING
 
 training module: https://github.com/AlexeyAB/darknet
 
