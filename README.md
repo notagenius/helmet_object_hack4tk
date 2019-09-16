@@ -7,7 +7,7 @@ out-of-box demo ready solution.
 
 ### 0. USAGE:
 
-model is deployed with openCV DNN ReadNetFromDarknet, and enough platform-freedom.
+deployed with openCV DNN ReadNetFromDarknet, and enough platform-freedom.
 pretained model provided, quick but not well coded but functional.
 
 detection in image:
@@ -24,7 +24,7 @@ detection in webcam live:
 ```
 python3 Helmet_Detection.py -c
 ```
-there are flag in code you can set: 
+flags in code you can set: 
 
 | FLAGS  | DEFAULT |DESCRIPTION|
 | ------------- | ------------- |------------- |
