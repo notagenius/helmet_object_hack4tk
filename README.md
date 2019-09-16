@@ -34,7 +34,9 @@ for live demo effect
 
 #### 1. Envirnment (virtualenv) depedencies or not
 
-pip install -r requirements.txt
+developped with python3
+
+pip3 install -r requirements.txt
 
 #### 2. Model problem
 
