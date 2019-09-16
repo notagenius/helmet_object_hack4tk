@@ -13,17 +13,17 @@ pretained model provided
 
 detection in image:
 ```
-python3 Helmet_detection_YOLOV3.py -i ./test_input/test_working_helmet.jpg
+python3 Helmet_Detector.py -i ./test_input/test_working_helmet.jpg
 ```
 
 detection in video:
 ```
-python3 Helmet_detection_YOLOV3.py -v ./test_input/helmet.mp4
+python3 Helmet_Detector.py -v ./test_input/helmet.mp4
 ```
 
 detection in webcam live:
 ```
-python3 Helmet_detection_YOLOV3.py -c
+python3 Helmet_Detection.py -c
 ```
 there are flag in code you can set: 
 for live demo effect
