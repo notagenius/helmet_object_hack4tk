@@ -2,7 +2,7 @@
 
 IMAGE/VIDEO/LIVE Detector for TIM RUPP, 
 
-demo code. up and run
+demo code. Out-of-box ready. 
 
 <img src="./result/test_larger.jpg" width="300"  />
 
@@ -53,3 +53,6 @@ training module: https://github.com/AlexeyAB/darknet
 
 a handy labelling tool: https://github.com/AlexeyAB/Yolo_mark
 
+#### silly comments,
+
+webcam code is i blinded coded for i have no webcam now, not likely it will have bug, but maybe
