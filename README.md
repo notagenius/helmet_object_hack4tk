@@ -8,8 +8,7 @@ out-of-box demo ready solution.
 ### 0. USAGE:
 
 model is deployed with openCV DNN ReadNetFromDarknet, and enough platform-freedom.
-pretained model provided, quick coded, dumb parameter setting and exceptions are not handled. 
-but just try to make it functional.
+pretained model provided, quick but not well coded but functional.
 
 detection in image:
 ```
