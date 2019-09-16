@@ -2,7 +2,7 @@
 
 IMAGE/VIDEO/LIVE Detector for TIM RUPP, 
 
-demo code. Out-of-box ready. 
+out-of-box demo ready solution. 
 
 <img src="./result/test_larger.jpg" width="300"  />
 
