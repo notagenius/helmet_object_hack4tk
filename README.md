@@ -8,8 +8,9 @@ demo code. Out-of-box ready.
 
 #### 0. Utility:
 
-model is deployed with openCV DNN ReadNetFromDarknet, and enough platform-freedom
-pretained model provided, quick coded, dumb arguments input but aiming to be functional
+model is deployed with openCV DNN ReadNetFromDarknet, and enough platform-freedom.
+pretained model provided, quick coded, dumb parameter setting and exceptions are not handled. 
+but just try to make it functional.
 
 detection in image:
 ```
