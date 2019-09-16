@@ -33,7 +33,7 @@ for live demo effect
 3) resize_factor  
 
 
-#### 1. Envirnment (virtualenv) depedencies or not
+#### 1. Envirnment (virtualenv) depedencies
 
 developped with python3
 
