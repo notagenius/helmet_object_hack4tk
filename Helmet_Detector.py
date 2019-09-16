@@ -1,3 +1,8 @@
+#####################################################################
+## image demo: python3 Helmet_Detector.py -i ./test_input/test_working_helmet.jpg
+## video demo: python3 Helmet_Detector.py -v ./test_input/helmet.mp4
+## webcam live demo: python3 Helmet_Detection.py -c
+#####################################################################
 from time import sleep
 import cv2
 import sys
