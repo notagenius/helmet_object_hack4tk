@@ -27,10 +27,13 @@ detection in webcam live:
 python3 Helmet_Detection.py -c
 ```
 there are flag in code you can set: 
-for live demo effect
-1) visual_result
-2) save_result
-3) resize_factor  
+
+| flags  | default |
+| ------------- | ------------- |
+| visual_result  | True  |
+| save_result  | True  |
+| resize_factor   | 0.3 |
+
 
 
 #### 1. Envirnment (virtualenv) depedencies
