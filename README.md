@@ -1,6 +1,8 @@
 # helmet_object_hack4tk from Team ECC
 
-IMAGE/VIDEO/LIVE Detector for TIM RUPP
+IMAGE/VIDEO/LIVE Detector for TIM RUPP, 
+
+demo code. up and run
 
 <img src="./result/test_larger.jpg" width="300"  />
 
@@ -50,3 +52,4 @@ But to address the performance during hackathon, YOLOv3 was choosen.
 training module: https://github.com/AlexeyAB/darknet
 
 a handy labelling tool: https://github.com/AlexeyAB/Yolo_mark
+
