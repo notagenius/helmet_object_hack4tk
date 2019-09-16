@@ -27,7 +27,7 @@ python3 Helmet_Detection.py -c
 ```
 there are flag in code you can set: 
 
-| flags  | default |description|
+| FLAGS  | DEFAULT |DESCRIPTION|
 | ------------- | ------------- |------------- |
 | visual_result  | True  |visualized the result with opencv|
 | save_result  | True  | save the result as jpg or avi  |
