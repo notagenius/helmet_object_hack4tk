@@ -9,7 +9,7 @@ demo code. Out-of-box ready.
 #### 0. Utility:
 
 model is deployed with openCV DNN ReadNetFromDarknet, and enough platform-freedom
-pretained model provided
+pretained model provided, quick coded, dumb arguments input but aiming to be functional
 
 detection in image:
 ```
