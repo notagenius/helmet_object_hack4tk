@@ -42,13 +42,13 @@ pip3 install -r requirements.txt
 #### 2. Model problem
 
 This model is our hackathon model, it works fine. but it has its own problem for it greatly mis-classficates human hair to Helmet.
-this can be removed by deeper training with more datasets and took a care on data augumentation.
-made search on helmet open datasets the chinese one in is the best, I wanted to do a good model for TIM RUPP for submission but unfornately, till you are facing LIVE demo I am still not able to get any time for that. (I am very sorry, but to make a detect refinement on this model, the training at least need to run 40 hours + on GPU)
+this can be removed by deeper training with more datasets and taking a care on data augumentation.
+made search on helmet open datasets the chinese one is the best, I wanted to do a good model for Tim for submission but unfornately I am still not able to get any time for that. (I am very sorry, to make a detect refinement on this model, the training at least need to run 40 hours + on GPU)
 
 fine-tuning: darknet
 https://github.com/wujixiu/helmet-detection (this one offeres other networks pretain model too)
 
-But to address the performance during hackathon, YOLOv3 was choosen.
+to address the performance speed during hackathon on CPU, YOLOv3 was chosen.
 
 #### 3. if you wanna refine the model with your own data
 
