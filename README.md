@@ -2,6 +2,8 @@
 
 IMAGE/VIDEO/LIVE Detector for TIM RUPP
 
+<img src="./result/test_larger.jpg" width="300"  />
+
 #### 0. Utility:
 
 code is minimized with openCV DNN read from darknet, and enough platform-freedom
