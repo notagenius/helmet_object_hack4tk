@@ -8,7 +8,7 @@ demo code. Out-of-box ready.
 
 #### 0. Utility:
 
-code is minimized with openCV DNN read from darknet, and enough platform-freedom
+model is deployed with openCV DNN ReadNetFromDarknet, and enough platform-freedom
 pretained model provided
 
 detection in image:
