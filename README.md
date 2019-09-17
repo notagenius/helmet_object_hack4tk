@@ -22,7 +22,7 @@ python3 Helmet_Detector.py -v ./test_input/helmet.mp4
 
 detection in webcam live:
 ```
-python3 Helmet_Detection.py -c
+python3 Helmet_Detector.py -c
 ```
 flags in code you can set: 
 
